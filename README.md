@@ -15,7 +15,7 @@ Sampling means selecting the group that you will actually collect data from in y
 4. **Decision Tree Classifier**: It is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome. In a Decision tree, there are two nodes, which are the Decision Node and Leaf Node.
 5. **Naive Bayes Classifier**: A Naive Bayes classifier is a probabilistic machine learning model that's used for classification task. The crux of the classifier is based on the Bayes theorem.
 
-###Different accuracies over different sampling techniques and models are as follows:
+### Different accuracies over different sampling techniques and models are as follows:
 |index|Models|Simple Random Sampling|Stratified Random Sampling|Sytematic Sampling|Cluster Sampling|Multistage Sampling|
 |---|---|---|---|---|---|---|
 |0|Logistic Regression|91\.01123595505618|91\.3265306122449|91\.62303664921467|91\.97080291970804|89\.80891719745223|
